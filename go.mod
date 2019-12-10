@@ -14,6 +14,7 @@ require (
 	github.com/decred/dcrwallet v1.2.2
 	github.com/decred/dcrwallet/rpc/walletrpc v0.2.0
 	github.com/decred/slog v1.0.0
+	github.com/thi4go/dcrtime/api v1.0.0
 	github.com/gorilla/handlers v1.4.2
 	github.com/gorilla/mux v1.7.3
 	github.com/jessevdk/go-flags v1.4.0
